@@ -1,8 +1,8 @@
 ﻿using System;
 
-namespace Alphabet
+namespace Alphabet_Folder
 {
-    class Alphabet_Array
+    class Alphabet
     {
         static void Main(string[] args)
         {
@@ -28,6 +28,7 @@ namespace Alphabet
             Console.Write(ArrayString[3, 1] + ArrayString[5, 4]);
             Console.Write(" ");
             Console.Write(ArrayString[6, 1] + ArrayString[3, 1] + ArrayString[3, 6] + ArrayString[1, 3] + ArrayString[5, 0] + ArrayString[7, 1] + ArrayString[5, 4]);
+            
         }
     }
 }
