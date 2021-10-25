@@ -2,7 +2,7 @@
 
 namespace Alphabet
 {
-    class Alphabet_IO
+    class Alphabet_Io
     {
         static void Main(string[] args)
         {
