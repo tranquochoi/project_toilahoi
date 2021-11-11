@@ -1,0 +1,5 @@
+C:\Users\quoch\OneDrive\Desktop\project_toilahoi\List_Anime\obj\Debug\net5.0\List_Anime.csproj.AssemblyReference.cache
+C:\Users\quoch\OneDrive\Desktop\project_toilahoi\List_Anime\obj\Debug\net5.0\List_Anime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\quoch\OneDrive\Desktop\project_toilahoi\List_Anime\obj\Debug\net5.0\List_Anime.AssemblyInfoInputs.cache
+C:\Users\quoch\OneDrive\Desktop\project_toilahoi\List_Anime\obj\Debug\net5.0\List_Anime.AssemblyInfo.cs
+C:\Users\quoch\OneDrive\Desktop\project_toilahoi\List_Anime\obj\Debug\net5.0\List_Anime.csproj.CoreCompileInputs.cache

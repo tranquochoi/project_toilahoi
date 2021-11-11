@@ -1,0 +1,16 @@
+C:\Users\quoch\OneDrive\Desktop\project_toilahoi\QuanLy_Animal\obj\Debug\net5.0\QuanLy_Anime.csproj.AssemblyReference.cache
+C:\Users\quoch\OneDrive\Desktop\project_toilahoi\QuanLy_Animal\obj\Debug\net5.0\QuanLy_Anime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\quoch\OneDrive\Desktop\project_toilahoi\QuanLy_Animal\obj\Debug\net5.0\QuanLy_Anime.AssemblyInfoInputs.cache
+C:\Users\quoch\OneDrive\Desktop\project_toilahoi\QuanLy_Animal\obj\Debug\net5.0\QuanLy_Anime.AssemblyInfo.cs
+C:\Users\quoch\OneDrive\Desktop\project_toilahoi\QuanLy_Animal\obj\Debug\net5.0\QuanLy_Anime.csproj.CoreCompileInputs.cache
+C:\Users\quoch\OneDrive\Desktop\project_toilahoi\QuanLy_Animal\bin\Debug\net5.0\QuanLy_Anime.exe
+C:\Users\quoch\OneDrive\Desktop\project_toilahoi\QuanLy_Animal\bin\Debug\net5.0\QuanLy_Anime.deps.json
+C:\Users\quoch\OneDrive\Desktop\project_toilahoi\QuanLy_Animal\bin\Debug\net5.0\QuanLy_Anime.runtimeconfig.json
+C:\Users\quoch\OneDrive\Desktop\project_toilahoi\QuanLy_Animal\bin\Debug\net5.0\QuanLy_Anime.runtimeconfig.dev.json
+C:\Users\quoch\OneDrive\Desktop\project_toilahoi\QuanLy_Animal\bin\Debug\net5.0\QuanLy_Anime.dll
+C:\Users\quoch\OneDrive\Desktop\project_toilahoi\QuanLy_Animal\bin\Debug\net5.0\ref\QuanLy_Anime.dll
+C:\Users\quoch\OneDrive\Desktop\project_toilahoi\QuanLy_Animal\bin\Debug\net5.0\QuanLy_Anime.pdb
+C:\Users\quoch\OneDrive\Desktop\project_toilahoi\QuanLy_Animal\obj\Debug\net5.0\QuanLy_Anime.dll
+C:\Users\quoch\OneDrive\Desktop\project_toilahoi\QuanLy_Animal\obj\Debug\net5.0\ref\QuanLy_Anime.dll
+C:\Users\quoch\OneDrive\Desktop\project_toilahoi\QuanLy_Animal\obj\Debug\net5.0\QuanLy_Anime.pdb
+C:\Users\quoch\OneDrive\Desktop\project_toilahoi\QuanLy_Animal\obj\Debug\net5.0\QuanLy_Anime.genruntimeconfig.cache

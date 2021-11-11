@@ -1,0 +1,16 @@
+C:\Users\quoch\OneDrive\Desktop\project_toilahoi\Alphabet\bin\Debug\net5.0\Alphabet.exe
+C:\Users\quoch\OneDrive\Desktop\project_toilahoi\Alphabet\bin\Debug\net5.0\Alphabet.deps.json
+C:\Users\quoch\OneDrive\Desktop\project_toilahoi\Alphabet\bin\Debug\net5.0\Alphabet.runtimeconfig.json
+C:\Users\quoch\OneDrive\Desktop\project_toilahoi\Alphabet\bin\Debug\net5.0\Alphabet.runtimeconfig.dev.json
+C:\Users\quoch\OneDrive\Desktop\project_toilahoi\Alphabet\bin\Debug\net5.0\Alphabet.dll
+C:\Users\quoch\OneDrive\Desktop\project_toilahoi\Alphabet\bin\Debug\net5.0\ref\Alphabet.dll
+C:\Users\quoch\OneDrive\Desktop\project_toilahoi\Alphabet\bin\Debug\net5.0\Alphabet.pdb
+C:\Users\quoch\OneDrive\Desktop\project_toilahoi\Alphabet\obj\Debug\net5.0\Alphabet.csproj.AssemblyReference.cache
+C:\Users\quoch\OneDrive\Desktop\project_toilahoi\Alphabet\obj\Debug\net5.0\Alphabet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\quoch\OneDrive\Desktop\project_toilahoi\Alphabet\obj\Debug\net5.0\Alphabet.AssemblyInfoInputs.cache
+C:\Users\quoch\OneDrive\Desktop\project_toilahoi\Alphabet\obj\Debug\net5.0\Alphabet.AssemblyInfo.cs
+C:\Users\quoch\OneDrive\Desktop\project_toilahoi\Alphabet\obj\Debug\net5.0\Alphabet.csproj.CoreCompileInputs.cache
+C:\Users\quoch\OneDrive\Desktop\project_toilahoi\Alphabet\obj\Debug\net5.0\Alphabet.dll
+C:\Users\quoch\OneDrive\Desktop\project_toilahoi\Alphabet\obj\Debug\net5.0\ref\Alphabet.dll
+C:\Users\quoch\OneDrive\Desktop\project_toilahoi\Alphabet\obj\Debug\net5.0\Alphabet.pdb
+C:\Users\quoch\OneDrive\Desktop\project_toilahoi\Alphabet\obj\Debug\net5.0\Alphabet.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\quoch\OneDrive\Desktop\project_toilahoi\Alphabet_Folder\bin\Debug\net5.0\Alphabet_Folder.exe
+C:\Users\quoch\OneDrive\Desktop\project_toilahoi\Alphabet_Folder\bin\Debug\net5.0\Alphabet_Folder.deps.json
+C:\Users\quoch\OneDrive\Desktop\project_toilahoi\Alphabet_Folder\bin\Debug\net5.0\Alphabet_Folder.runtimeconfig.json
+C:\Users\quoch\OneDrive\Desktop\project_toilahoi\Alphabet_Folder\bin\Debug\net5.0\Alphabet_Folder.runtimeconfig.dev.json
+C:\Users\quoch\OneDrive\Desktop\project_toilahoi\Alphabet_Folder\bin\Debug\net5.0\Alphabet_Folder.dll
+C:\Users\quoch\OneDrive\Desktop\project_toilahoi\Alphabet_Folder\bin\Debug\net5.0\ref\Alphabet_Folder.dll
+C:\Users\quoch\OneDrive\Desktop\project_toilahoi\Alphabet_Folder\bin\Debug\net5.0\Alphabet_Folder.pdb
+C:\Users\quoch\OneDrive\Desktop\project_toilahoi\Alphabet_Folder\obj\Debug\net5.0\Alphabet_Folder.csproj.AssemblyReference.cache
+C:\Users\quoch\OneDrive\Desktop\project_toilahoi\Alphabet_Folder\obj\Debug\net5.0\Alphabet_Folder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\quoch\OneDrive\Desktop\project_toilahoi\Alphabet_Folder\obj\Debug\net5.0\Alphabet_Folder.AssemblyInfoInputs.cache
+C:\Users\quoch\OneDrive\Desktop\project_toilahoi\Alphabet_Folder\obj\Debug\net5.0\Alphabet_Folder.AssemblyInfo.cs
+C:\Users\quoch\OneDrive\Desktop\project_toilahoi\Alphabet_Folder\obj\Debug\net5.0\Alphabet_Folder.csproj.CoreCompileInputs.cache
+C:\Users\quoch\OneDrive\Desktop\project_toilahoi\Alphabet_Folder\obj\Debug\net5.0\Alphabet_Folder.dll
+C:\Users\quoch\OneDrive\Desktop\project_toilahoi\Alphabet_Folder\obj\Debug\net5.0\ref\Alphabet_Folder.dll
+C:\Users\quoch\OneDrive\Desktop\project_toilahoi\Alphabet_Folder\obj\Debug\net5.0\Alphabet_Folder.pdb
+C:\Users\quoch\OneDrive\Desktop\project_toilahoi\Alphabet_Folder\obj\Debug\net5.0\Alphabet_Folder.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Alphabet_Folder/1.0.0": {
+        "runtime": {
+          "Alphabet_Folder.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Alphabet_Folder/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

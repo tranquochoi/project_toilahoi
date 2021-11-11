@@ -1,0 +1,16 @@
+C:\Users\quoch\OneDrive\Desktop\project_toilahoi\Schedule\bin\Debug\net5.0\Schedule.exe
+C:\Users\quoch\OneDrive\Desktop\project_toilahoi\Schedule\bin\Debug\net5.0\Schedule.deps.json
+C:\Users\quoch\OneDrive\Desktop\project_toilahoi\Schedule\bin\Debug\net5.0\Schedule.runtimeconfig.json
+C:\Users\quoch\OneDrive\Desktop\project_toilahoi\Schedule\bin\Debug\net5.0\Schedule.runtimeconfig.dev.json
+C:\Users\quoch\OneDrive\Desktop\project_toilahoi\Schedule\bin\Debug\net5.0\Schedule.dll
+C:\Users\quoch\OneDrive\Desktop\project_toilahoi\Schedule\bin\Debug\net5.0\ref\Schedule.dll
+C:\Users\quoch\OneDrive\Desktop\project_toilahoi\Schedule\bin\Debug\net5.0\Schedule.pdb
+C:\Users\quoch\OneDrive\Desktop\project_toilahoi\Schedule\obj\Debug\net5.0\Schedule.csproj.AssemblyReference.cache
+C:\Users\quoch\OneDrive\Desktop\project_toilahoi\Schedule\obj\Debug\net5.0\Schedule.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\quoch\OneDrive\Desktop\project_toilahoi\Schedule\obj\Debug\net5.0\Schedule.AssemblyInfoInputs.cache
+C:\Users\quoch\OneDrive\Desktop\project_toilahoi\Schedule\obj\Debug\net5.0\Schedule.AssemblyInfo.cs
+C:\Users\quoch\OneDrive\Desktop\project_toilahoi\Schedule\obj\Debug\net5.0\Schedule.csproj.CoreCompileInputs.cache
+C:\Users\quoch\OneDrive\Desktop\project_toilahoi\Schedule\obj\Debug\net5.0\Schedule.dll
+C:\Users\quoch\OneDrive\Desktop\project_toilahoi\Schedule\obj\Debug\net5.0\ref\Schedule.dll
+C:\Users\quoch\OneDrive\Desktop\project_toilahoi\Schedule\obj\Debug\net5.0\Schedule.pdb
+C:\Users\quoch\OneDrive\Desktop\project_toilahoi\Schedule\obj\Debug\net5.0\Schedule.genruntimeconfig.cache

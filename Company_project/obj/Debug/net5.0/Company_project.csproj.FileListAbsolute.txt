@@ -1,0 +1,16 @@
+C:\Users\quoch\OneDrive\Desktop\project_toilahoi\Company_project\bin\Debug\net5.0\Company_project.exe
+C:\Users\quoch\OneDrive\Desktop\project_toilahoi\Company_project\bin\Debug\net5.0\Company_project.deps.json
+C:\Users\quoch\OneDrive\Desktop\project_toilahoi\Company_project\bin\Debug\net5.0\Company_project.runtimeconfig.json
+C:\Users\quoch\OneDrive\Desktop\project_toilahoi\Company_project\bin\Debug\net5.0\Company_project.runtimeconfig.dev.json
+C:\Users\quoch\OneDrive\Desktop\project_toilahoi\Company_project\bin\Debug\net5.0\Company_project.dll
+C:\Users\quoch\OneDrive\Desktop\project_toilahoi\Company_project\bin\Debug\net5.0\ref\Company_project.dll
+C:\Users\quoch\OneDrive\Desktop\project_toilahoi\Company_project\bin\Debug\net5.0\Company_project.pdb
+C:\Users\quoch\OneDrive\Desktop\project_toilahoi\Company_project\obj\Debug\net5.0\Company_project.csproj.AssemblyReference.cache
+C:\Users\quoch\OneDrive\Desktop\project_toilahoi\Company_project\obj\Debug\net5.0\Company_project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\quoch\OneDrive\Desktop\project_toilahoi\Company_project\obj\Debug\net5.0\Company_project.AssemblyInfoInputs.cache
+C:\Users\quoch\OneDrive\Desktop\project_toilahoi\Company_project\obj\Debug\net5.0\Company_project.AssemblyInfo.cs
+C:\Users\quoch\OneDrive\Desktop\project_toilahoi\Company_project\obj\Debug\net5.0\Company_project.csproj.CoreCompileInputs.cache
+C:\Users\quoch\OneDrive\Desktop\project_toilahoi\Company_project\obj\Debug\net5.0\Company_project.dll
+C:\Users\quoch\OneDrive\Desktop\project_toilahoi\Company_project\obj\Debug\net5.0\ref\Company_project.dll
+C:\Users\quoch\OneDrive\Desktop\project_toilahoi\Company_project\obj\Debug\net5.0\Company_project.pdb
+C:\Users\quoch\OneDrive\Desktop\project_toilahoi\Company_project\obj\Debug\net5.0\Company_project.genruntimeconfig.cache

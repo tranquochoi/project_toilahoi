@@ -9,10 +9,10 @@ using System;
         public void PS_List()
         {
             Console.Write("So luong nhan vien van phong: ");
-            int n = Convert.ToInt32(Console.ReadLine());
-            Production_Staff [] p = new Production_Staff[n];
+            _n = Convert.ToInt32(Console.ReadLine());
+            Production_Staff [] p = new Production_Staff[_n];
 
-            for (int i=0; i<n; i++)
+            for (int i=0; i<_n; i++)
             {
                 Console.WriteLine("Nhap nhan vien thu " +(i+1));
                 Console.WriteLine(" ========== ");
@@ -21,9 +21,9 @@ using System;
                 p[i].Display();    
             }
             Production_Staff tl;
-            for (int i=0; i<n; i++)
+            for (int i=0; i<_n; i++)
             {
-                for (int j=i+1; j<n; j++)
+                for (int j=i+1; j<_n; j++)
                 {
                     if (p[i].Luong< p[j].Luong)
                     {
@@ -35,7 +35,7 @@ using System;
             }   
             Console.WriteLine(" ========== ");
             Console.WriteLine("So tien luong giam dan cua nhan vien san xuat\n");
-            for (int i=0; i<n; i++)
+            for (int i=0; i<_n; i++)
             {   
                 Console.WriteLine("Ho ten: {0}\nLuong nhan vien san xuat: {1:F3}\n", p[i].HoTen, p[i].Luong);
             }   
